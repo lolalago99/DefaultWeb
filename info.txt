@@ -44,4 +44,8 @@ Commit #22 - Cherry Pick demo commit 1
 
 Commit #23 - Cherry Pick demo commit 2
 
+Commit #24 - my rebase 1
+
+Commit #24 - my rebase 2
+
 No more commits after this line.
